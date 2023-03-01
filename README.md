@@ -1,6 +1,8 @@
 # OpenThaiGPT-example
+Kobkrit Viriyayudhakorn
+kobkrit@iapp.co.th
 
-Example of how to use OpenThaiGPT
+Example of how to use OpenThaiGPT pip package.
 
 ## Installation
 Python>=3.6
